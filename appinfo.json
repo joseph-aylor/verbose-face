@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "joseph.aylor@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Verbose",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Verbose",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "0b8ad895-88ea-4543-adf0-db0d2eb71836",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
